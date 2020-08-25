@@ -1,0 +1,5 @@
+each file is a bash script.
+
+Can be executed as 
+
+sh <scriptname.sh> <arg1,2,3 ... argN>
